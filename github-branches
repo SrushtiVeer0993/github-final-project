@@ -1,0 +1,7 @@
+@SrushtiVeer0993 ➜ /workspaces/mcino-Introduction-to-Git-and-GitHub (bug-fix-revert) $ git branch -avv
+* bug-fix-revert                72d4a29 [origin/bug-fix-revert] Add pull request verification
+  bug-fix-typo                  4496f61 Fix typo in README
+  main                          64453b1 [origin/main] Add merge branch output
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 72d4a29 Add pull request verification
+  remotes/origin/main           64453b1 Add merge branch output
