@@ -1,0 +1,5 @@
+@SrushtiVeer0993 ➜ /workspaces/github-final-project (main) $ git branch -avv
+* main                          4212e53 [origin/main] Update pull request verification
+  remotes/origin/HEAD           -> origin/main
+  remotes/origin/bug-fix-revert 3643441 Add branch status output
+  remotes/origin/main           4212e53 Update pull request verification
