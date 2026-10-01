@@ -1,0 +1,8 @@
+@SrushtiVeer0993 ➜ /workspaces/mcino-Introduction-to-Git-and-GitHub (bug-fix-typo) $ git checkout main
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+@SrushtiVeer0993 ➜ /workspaces/mcino-Introduction-to-Git-and-GitHub (main) $ git merge bug-fix-typo
+Updating 92484da..4496f61
+Fast-forward
+ README.md | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
