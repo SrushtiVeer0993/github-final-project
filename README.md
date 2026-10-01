@@ -4,7 +4,7 @@ A simple Bash-based calculator that computes simple interest based on the princi
 
 ## Formula
 
-Simple interest is calculated using:
+The simple interest is calculated using:
 
 **Simple Interest = (Principal × Rate × Time) / 100**
 
